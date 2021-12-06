@@ -1,2 +1,2 @@
 # my-project
-für fan 
+für lernen 
